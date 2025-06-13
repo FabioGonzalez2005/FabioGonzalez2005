@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-- 📖 Currently learning **Laravel**
+- 📖 Currently learning **Make.com**
 - ❄️ Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **fabiogonzalezw@gmail.com**
 
