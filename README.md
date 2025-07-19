@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-- 📖 Currently learning **Make.com**
+- 📖 Currently learning **MCP for AI integrations**
 - ❄️ Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **fabiogonzalezw@gmail.com**
 
